@@ -17,7 +17,7 @@ namespace DragRecordsXDG
                                                     new Uri(@"People/Guy01.jpg", UriKind.RelativeOrAbsolute),
                                                     "Human Resources",
                                                     52500.00M,
-                                                    "(712) 555-9837",
+                                                    "(712) 555-9899",
                                                     "(214) 555-7222",
                                                     "7655 5th Avenue",
                                                     "Apt 3B",
