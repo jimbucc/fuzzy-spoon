@@ -18,7 +18,7 @@ namespace DragRecordsXDG
         private DateTime _originalHireDate = DateTime.Now;
         private Uri _photoFileUri;
         private string _department = string.Empty;
-        private decimal _salary = 0.0M;
+        private decimal _salary = 0.1M;
         private string _phoneNumber = string.Empty;
         private string _cellNumber = string.Empty;
         private string _address1 = string.Empty;
