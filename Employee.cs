@@ -28,6 +28,7 @@ namespace DragRecordsXDG
         private string _zip = string.Empty;
         private string _email = string.Empty;
         private Image _photo = null;
+        private string JimmyName = "Jimmy"
         private bool _isOk;
 
         #endregion Member Variables
